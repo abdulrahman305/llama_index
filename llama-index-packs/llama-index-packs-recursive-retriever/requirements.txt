@@ -1,2 +1,2 @@
 lxml
-unstructured==0.10.18
+unstructured==0.16.20
