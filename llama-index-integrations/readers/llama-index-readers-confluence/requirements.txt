@@ -7,3 +7,4 @@ docx2txt
 xlrd
 svglib
 retrying
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
